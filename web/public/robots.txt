@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sherzodv.github.io/memris/sitemap.xml
