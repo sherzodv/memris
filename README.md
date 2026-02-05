@@ -1,1 +1,1 @@
-Moved to [anukauchika.com](anukauchika.com)
+Moved to [https://anukauchika.github.io/](https://anukauchika.github.io/)
